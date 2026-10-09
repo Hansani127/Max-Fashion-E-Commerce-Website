@@ -20,5 +20,5 @@ MaxFashionConnect is a modern fashion e-commerce web application designed to pro
 - React.js
 - Node.js
 - Express.js
-- MongoDB
+
 
